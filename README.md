@@ -43,4 +43,8 @@ With cyber threats on the rise, ensuring data privacy is more important than eve
 
 🔗 **Explore the project:** [GitHub Repository](https://github.com/Yashas14/Encryption-Decryption-)
 
+## 👥 Connect With Me:
+
+**Yashas D** [Connect on LinkedIn](https://www.linkedin.com/in/yashasd2004/)
+Feel free to reach out for any questions or collaboration opportunities!
 Secure your world, one encrypted message at a time!
