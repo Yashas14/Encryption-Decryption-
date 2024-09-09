@@ -41,6 +41,6 @@ With cyber threats on the rise, ensuring data privacy is more important than eve
 2. Install the required dependencies listed in the `requirements.txt` file.
 3. Follow the instructions in the README to start encrypting and decrypting your files!
 
-🔗 **Explore the project:** [GitHub Repository](https://github.com/Yashas14/Encryption-Decryption)
+🔗 **Explore the project:** [GitHub Repository](https://github.com/Yashas14/Encryption-Decryption-)
 
 Secure your world, one encrypted message at a time!
